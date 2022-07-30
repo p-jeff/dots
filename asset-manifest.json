@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dots/static/css/main.05cb29eb.css",
+    "main.js": "/dots/static/js/main.39038ac8.js",
+    "static/media/RedHatMono-Italic-VariableFont_wght.ttf": "/dots/static/media/RedHatMono-Italic-VariableFont_wght.4938220a3980027feee6.ttf",
+    "index.html": "/dots/index.html",
+    "main.05cb29eb.css.map": "/dots/static/css/main.05cb29eb.css.map",
+    "main.39038ac8.js.map": "/dots/static/js/main.39038ac8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05cb29eb.css",
+    "static/js/main.39038ac8.js"
+  ]
+}
